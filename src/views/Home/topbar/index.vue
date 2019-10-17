@@ -160,11 +160,12 @@
 	}
 	
 	.body_top .top_center {
-		height: 80px;
-		line-height: 80px;
+		/*height: 80px;*/
+		line-height: 40px;
 		border-bottom: 1px solid #ededed;
 		font-size: 18px;
 		color: #202020;
+		margin-bottom:15px;
 	}
 	
 	.body_top .top_center .item_center {
@@ -182,10 +183,11 @@
 	}
 	
 	.body_top .top_bottom {
-		height: 70px;
-		line-height: 70px;
+		/*height: 70px;*/
+		line-height: 40px;
 		font-size: 18px;
 		color: #202020;
+		padding-bottom:15px;
 	}
 	
 	.body_top .top_bottom .item_bottom {

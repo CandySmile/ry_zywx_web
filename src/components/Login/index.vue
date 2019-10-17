@@ -5,7 +5,7 @@
 			<div class="main-block">
 				<div class="header-title">
 					<img src="../../assets/images/logo.png" />
-					<div class="title-cnt">作业在线提交系统</div>
+					<div class="title-cnt">南京致远外国语小学 学生学习平台 </div>
 				</div>
 				<el-form :model="logonForm" :rules="rules" ref="logonForm" label-width="0px" label-position="left" class="logonForm">
 					<el-form-item label prop="tel">

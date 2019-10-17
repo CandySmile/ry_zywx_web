@@ -4,9 +4,9 @@
  * @Date: 2019-07-31
  */
 
-// 外网
-export const IP = 'http://192.168.241.41:8080';//张丽
-//export const IP = 'http://njzy.huhuschool.com';
+
+//export const IP = 'http://192.168.241.6:8080';//张丽
+export const IP = 'http://njzy.huhuschool.com';// 外网
 //export const IP = 'http://192.168.241.48:8092';  //测试
 
 export const HOST = `${IP}/njzy`;
